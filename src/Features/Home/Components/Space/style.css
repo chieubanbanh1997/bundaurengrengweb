@@ -1,0 +1,132 @@
+.sp .slick-slider.slick-initialized ul.slick-dots {
+  position: absolute !important;
+  bottom: 25px !important;
+}
+.sp .slick-dots li:first-child button:before {
+  border-radius: none;
+  border-right: 20px;
+  font-size: 15px !important;
+  content: "" !important;
+  background-color: #fffceb;
+  clip-path: polygon(
+    29% 6%,
+    69% 6%,
+    91% 34%,
+    95% 67%,
+    78% 94%,
+    30% 94%,
+    3% 68%,
+    0% 30%
+  );
+  opacity: 1 !important;
+}
+.sp .slick-dots li button:before {
+  border-radius: none;
+  border-right: 20px;
+  font-size: 15px !important;
+  content: "" !important;
+  background-color: #fffceb;
+  clip-path: polygon(
+    29% 5%,
+    69% 6%,
+    99% 30%,
+    95% 75%,
+    76% 99%,
+    10% 98%,
+    0 73%,
+    0% 30%
+  );
+  opacity: 1 !important;
+}
+.sp .slick-dots li:last-child button:before {
+  border-radius: none;
+  border-right: 20px;
+  font-size: 15px !important;
+  content: "" !important;
+  background-color: #fffceb;
+  clip-path: polygon(
+    29% 5%,
+    69% 6%,
+    99% 30%,
+    95% 75%,
+    59% 89%,
+    21% 89%,
+    8% 72%,
+    5% 31%
+  );
+  opacity: 1 !important;
+}
+.sp .slick-dots li:first-child.slick-active button:before {
+  border-radius: none;
+  border-right: 20px;
+  font-size: 15px !important;
+  content: "" !important;
+  background-color: #fee046;
+  clip-path: polygon(
+    29% 6%,
+    69% 6%,
+    91% 34%,
+    95% 67%,
+    78% 94%,
+    30% 94%,
+    3% 68%,
+    0% 30%
+  );
+  opacity: 1 !important;
+}
+.sp .slick-dots li.slick-active button:before {
+  border-radius: none;
+  border-right: 20px;
+  font-size: 15px !important;
+  content: "" !important;
+  background-color: #fee046;
+  clip-path: polygon(
+    29% 5%,
+    69% 6%,
+    99% 30%,
+    95% 75%,
+    76% 99%,
+    10% 98%,
+    0 73%,
+    0% 30%
+  );
+  opacity: 1 !important;
+}
+.sp .slick-dots li:last-child.slick-active button:before {
+  border-radius: none;
+  border-right: 20px;
+  font-size: 15px !important;
+  content: "" !important;
+  background-color: #fee046;
+  clip-path: polygon(
+    29% 5%,
+    69% 6%,
+    99% 30%,
+    95% 75%,
+    59% 89%,
+    21% 89%,
+    8% 72%,
+    5% 31%
+  );
+  opacity: 1 !important;
+}
+
+.sp .slick-arrow.slick-prev::before {
+  content: url("../../../../Assets/Images/prev.png") !important;
+  z-index: 10 !important;
+  opacity: 1 !important;
+}
+.sp .slick-arrow.slick-prev {
+  left: 15px;
+  z-index: 20;
+}
+.sp .slick-arrow.slick-next {
+  right: 30px;
+  /* right: 12%; */
+  z-index: 20;
+}
+.sp .slick-arrow.slick-next::before {
+  content: url("../../../../Assets/Images/next.png") !important;
+  z-index: 10;
+  opacity: 1 !important;
+}

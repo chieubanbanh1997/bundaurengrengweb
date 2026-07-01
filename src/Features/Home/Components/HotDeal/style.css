@@ -1,0 +1,7 @@
+.hotdeal-wp {
+  background-image: url("../../../../Assets/Images/hot-bg.png");
+}
+
+.smooth {
+  transition: all 0.6s linear;
+}

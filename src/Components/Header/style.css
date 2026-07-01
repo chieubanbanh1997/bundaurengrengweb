@@ -1,0 +1,13 @@
+.menu-none {
+  right: -100%;
+  transition: all 0.5s ease-out;
+}
+
+.menu-active {
+  transition: all 0.5s linear;
+  right: 0%;
+}
+
+.active .menu {
+  color: #fdde45;
+}

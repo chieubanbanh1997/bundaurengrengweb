@@ -1,0 +1,26 @@
+export const LIST_SUB_FOODS = [
+  {
+    title: "Ốc bưu nhồi",
+    thumbnail: "/images/data/sub_food/s1.png",
+    des: ``,
+    detail: "",
+    price: "59.000",
+    img1: "",
+    img2: "",
+    img3: "",
+    time: "",
+    isHome: false,
+  },
+  {
+    title: "Dồi sụn rán",
+    thumbnail: "/images/data/sub_food/s2.png",
+    des: ``,
+    detail: "",
+    price: "27.000",
+    img1: "",
+    img2: "",
+    img3: "",
+    time: "",
+    isHome: false,
+  },
+];
