@@ -128,7 +128,7 @@ export default function Space() {
                               alt="price"
                               className="absolute right-[4%] top-[5%]"
                             />
-                            {item.hotTitle == "spec" ? (
+                            {item.hotTitle === "spec" ? (
                               <>
                                 <p className="font-LHanoienne text-[10px] text-white text-left">
                                   tin
@@ -162,6 +162,7 @@ export default function Space() {
                   </div>
                 );
               }
+              return null;
             })}
           </div>
         </div>

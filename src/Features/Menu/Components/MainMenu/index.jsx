@@ -50,6 +50,7 @@ export default function MainMenu() {
               </div>
             );
           }
+          return null;
         })}
       </div>
     </div>

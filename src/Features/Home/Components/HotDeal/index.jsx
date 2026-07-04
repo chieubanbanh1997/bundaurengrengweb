@@ -9,7 +9,7 @@ export default function HotDeal() {
   const [changeDeal, setchangeDeal] = useState("hotdeal-default");
   useEffect(() => {
     setTimeout(() => {
-      if (changeDeal == "hotdeal-default") {
+      if (changeDeal === "hotdeal-default") {
         setchangeDeal("hotdeal-sp");
       } else {
         setchangeDeal("hotdeal-default");
