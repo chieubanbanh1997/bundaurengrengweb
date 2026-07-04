@@ -1,10 +1,10 @@
 export const LIST_FOODS = [
   {
-    title: "BÚN ĐẬU ĐẦY ẮP (3-4 người ăn)",
+    title: "BÚN ĐẬU ĐẦY ẮP (3 người ăn)",
     thumbnail: "/images/data/food/thumb-bun-dau-day-ap.png",
-    des: `Bún lá, đậu hũ, thịt heo luộc, nem chua rán, chả cốm, chả giò, chả cua, chả ốc, chả sụn, chả lụa chiên, cà pháo, rau thơm`,
+    des: `Bún lá, đậu hũ, thịt heo luộc, nem chua rán, chả cốm, chả mực, chả cua, chả ốc, chả sụn, chả lụa chiên, cà pháo, rau thơm`,
     detail: "",
-    price: "163.000",
+    price: "166.000",
     img1: "",
     img2: "",
     img3: "",
@@ -14,9 +14,9 @@ export const LIST_FOODS = [
   {
     title: "Bún đậu no nê (2 người ăn)",
     thumbnail: "/images/data/food/thumb-bun-dau-no-ne-2ng.png",
-    des: `Bún lá, đậu hũ, thịt heo luộc, nem chua rán, chả cốm, chả giò, chả lụa chiên, cà pháo, rau thơm`,
+    des: `Bún lá, đậu hũ, thịt heo luộc, nem chua rán, chả cốm, chả cua, chả lụa chiên, cà pháo, rau thơm`,
     detail: "",
-    price: "93.000",
+    price: "96.000",
     img1: "",
     img2: "",
     img3: "",
@@ -26,9 +26,9 @@ export const LIST_FOODS = [
   {
     title: "BÚN ĐẬU MẮM TÔM",
     thumbnail: "/images/data/food/thumb-bun-dau-mam-tom.png",
-    des: `Bún lá, đậu hũ, thịt heo luộc, cà pháo, rau thơm`,
+    des: `Bún lá, đậu hũ, thịt heo luộc, nem chua rán, chả cốm cà pháo, rau thơm`,
     detail: "",
-    price: "37.000",
+    price: "46.000",
     img1: "",
     img2: "",
     img3: "",

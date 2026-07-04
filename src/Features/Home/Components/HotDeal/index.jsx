@@ -75,10 +75,10 @@ export default function HotDeal() {
           </div>
           <div className="lg:col-span-1 col-span-2 pl-[20px] mx-auto lg:mx-0">
             <h4 className="font-LHanoienne text-[18px] md:text-[40px] max-w-[450px]">
-              BÚN ĐẬU ĐẦY ẤP (3-4 người ăn)
+              BÚN ĐẬU ĐẦY ẤP (3 người ăn)
             </h4>
             <p className="max-w-[450px] font-Montser text-[15px] md:text-[24px] pt-3">
-              Bún lá, đậu hũ, thịt heo luộc, nem chua rán, chả cốm, chả giò, chả
+              Bún lá, đậu hũ, thịt heo luộc, nem chua rán, chả cốm, chả mực, chả
               cua, chả ốc, chả sụn, chả lụa chiên, cà pháo, rau thơm
             </p>
             <div className="flex mt-4 justify-center lg:justify-start">

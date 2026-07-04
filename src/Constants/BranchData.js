@@ -4,7 +4,7 @@ export const BRANCH_LIST = [
     name: "GÒ DẦU",
     lat: 10.795963012183451,
     lng: 106.6230910177766,
-    location: "146e Gò Dầu, Phường Tân Quý, Quận Tân Phú, Tp Hồ Chí Minh",
+    location: "146e Gò Dầu, Phường Tân Sơn Nhì, Tp Hồ Chí Minh",
     phone: "0789.4848.66",
     time: "Giờ mở cửa: 10:00 - 22:00",
   },

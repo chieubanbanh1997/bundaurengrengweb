@@ -54,7 +54,7 @@ export default function Footer() {
               </h3>
               <p className="font-Montser text-[#FFFCEB] max-w-[380px]">
                 <span className="text-[#FDDE45] font-bold ">Địa Chỉ:</span> 146e
-                Gò Dầu, Phường Tân Quý, Quận Tân Phú, TP Hồ Chí Minh
+                Gò Dầu, Phường Tân Sơn Nhì, TP Hồ Chí Minh
               </p>
               <p className="font-Montser text-[#FFFCEB]">
                 <span className="text-[#FDDE45] font-bold">Điện Thoại:</span>{" "}
